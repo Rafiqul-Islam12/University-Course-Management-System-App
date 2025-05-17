@@ -1,6 +1,6 @@
 # University Course Management Android App
 
-An Android application for Compile University students to browse course information by department, batch, and semester.
+A simple Android application built using Java and Android Studio to help Comilla University students manage and explore their academic curriculum. The app allows students to view syllabus details semester-wise using a clean UI.
 
 ## App Screenshots
 
