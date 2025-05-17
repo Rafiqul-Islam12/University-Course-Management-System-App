@@ -20,11 +20,11 @@ A simple Android application built using Java and Android Studio to help Comilla
 
 | Login Screen | Department Selection | Batch Selection |
 |--------------|----------------------|-----------------|
-| <img src="screenshots/login.jpg" width="200"> | <img src="screenshots/departments.jpg" width="200"> | <img src="screenshots/batches.jpg" width="200"> |
+| <img src="screenshots/login-ui2.jpg" width="200"> | <img src="screenshots/dept.jpg" width="200"> | <img src="screenshots/batch.jpg" width="200"> |
 
 | Semester Selection | Course Details |
 |--------------------|----------------|
-| <img src="screenshots/semesters.jpg" width="200"> | <img src="screenshots/courses.jpg" width="200"> |
+| <img src="screenshots/year-sem.jpg" width="200"> | <img src="screenshots/login-ui.jpg" width="200"> |
 
 ## Technical Implementation
 
