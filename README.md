@@ -3,7 +3,7 @@
 A simple Android application built using Java and Android Studio to help Comilla University students manage and explore their academic curriculum. The app allows students to view syllabus details semester-wise using a clean UI.
 
 ## Features
-🔐 Sign-in Interface – Enter your username, password and ID to access the app.
+🔐 Sign-in Interface – Enter your username, password and ID to access the app. \n
 🎓 Department selection (e.g., CSE, Mathematics, Physics, etc.)
 🎓 Batch selection (e.g., CSE-12 to CSE-16)
 🗂 Year/Semester selection (1st-4th year, 1st-2nd semester)
