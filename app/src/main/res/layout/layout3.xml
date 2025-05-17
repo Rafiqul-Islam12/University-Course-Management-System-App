@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="#DCEDC8">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Choose Your Year and Semester"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:columnCount="2"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn11"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_rowWeight="1"
+            android:layout_margin="8dp"
+            android:gravity="center"
+            android:text="1st Year \n1st Semester"
+            android:textSize="20dp"
+            android:background="#FFDDDD"
+            android:padding="16dp" />
+
+        <Button
+            android:id="@+id/btn12"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_rowWeight="1"
+            android:layout_margin="8dp"
+            android:gravity="center"
+            android:text="1st Year \n2nd Semester"
+            android:textSize="20dp"
+            android:background="#DDFFDD"
+            android:padding="16dp" />
+
+        <Button
+            android:id="@+id/btn21"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_rowWeight="1"
+            android:layout_margin="8dp"
+            android:gravity="center"
+            android:text="2nd Year \n1st Semester"
+            android:textSize="20dp"
+            android:background="#FFDDDD"
+            android:padding="16dp" />
+
+        <Button
+            android:id="@+id/btn22"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_rowWeight="1"
+            android:layout_margin="8dp"
+            android:gravity="center"
+            android:text="2nd Year \n2nd Semester"
+            android:textSize="20dp"
+            android:background="#FFDDDD"
+            android:padding="16dp" />
+
+        <Button
+            android:id="@+id/btn31"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_rowWeight="1"
+            android:layout_margin="8dp"
+            android:gravity="center"
+            android:text="3rd Year \n1st Semester"
+            android:textSize="20dp"
+            android:background="#FFDDDD"
+            android:padding="16dp" />
+
+        <Button
+            android:id="@+id/btn32"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_rowWeight="1"
+            android:layout_margin="8dp"
+            android:gravity="center"
+            android:text="3rd Year \n2nd Semester"
+            android:textSize="20dp"
+            android:background="#FFDDDD"
+            android:padding="16dp" />
+
+        <Button
+            android:id="@+id/btn41"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_rowWeight="1"
+            android:layout_margin="8dp"
+            android:gravity="center"
+            android:text="4th Year \n1st Semester"
+            android:textSize="20dp"
+            android:background="#FFDDDD"
+            android:padding="16dp" />
+
+        <Button
+            android:id="@+id/btn42"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_rowWeight="1"
+            android:layout_margin="8dp"
+            android:gravity="center"
+            android:text="4th Year \n2nd Semester"
+            android:textSize="20dp"
+            android:background="#FFDDDD"
+            android:padding="16dp" />
+    </GridLayout>
+</LinearLayout>

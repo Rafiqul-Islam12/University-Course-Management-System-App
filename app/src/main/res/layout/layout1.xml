@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:gravity="center"
+    android:background="#DCEDC8">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Choose Your Department"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:gravity="center"/>
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:columnCount="2"
+        android:rowCount="3"
+        android:padding="8dp">
+
+        <Button
+            android:id="@+id/btnMath"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_margin="8dp"
+            android:text="Mathematics"
+            android:textSize="18sp"
+            android:background="#FFDDDD"
+            android:padding="16dp" />
+
+        <Button
+            android:id="@+id/btnPhy"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_margin="8dp"
+            android:text="Physics"
+            android:textSize="18sp"
+            android:background="#DDFFDD"
+            android:padding="16dp" />
+
+        <Button
+            android:id="@+id/btnChem"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_margin="8dp"
+            android:text="Chemistry"
+            android:textSize="18sp"
+            android:background="#FFDDDD"
+            android:padding="16dp" />
+
+        <Button
+            android:id="@+id/btnPharma"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_margin="8dp"
+            android:text="Pharmacy"
+            android:textSize="18sp"
+            android:background="#DDFFDD"
+            android:padding="16dp" />
+
+        <Button
+            android:id="@+id/btnCSE"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_margin="8dp"
+            android:text="CSE"
+            android:textSize="18sp"
+            android:background="#FFDDDD"
+            android:padding="16dp" />
+
+        <Button
+            android:id="@+id/btnICT"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_margin="8dp"
+            android:text="ICT"
+            android:textSize="18sp"
+            android:background="#FFDDDD"
+            android:padding="16dp" />
+
+        <Button
+            android:id="@+id/btnLaw"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_margin="8dp"
+            android:text="Law"
+            android:textSize="18sp"
+            android:background="#DDFFDD"
+            android:padding="16dp" />
+
+        <Button
+            android:id="@+id/btnBan"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_margin="8dp"
+            android:text="Bangla"
+            android:textSize="18sp"
+            android:background="#FFDDDD"
+            android:padding="16dp" />
+
+        <Button
+            android:id="@+id/btnEng"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_margin="8dp"
+            android:text="English"
+            android:textSize="18sp"
+            android:background="#DDFFDD"
+            android:padding="16dp" />
+
+        <Button
+            android:id="@+id/btnStat"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_margin="8dp"
+            android:text="Statistics"
+            android:textSize="18sp"
+            android:background="#FFDDDD"
+            android:padding="16dp" />
+
+        <Button
+            android:id="@+id/btnEco"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_margin="8dp"
+            android:text="Economics"
+            android:textSize="18sp"
+            android:background="#FFDDDD"
+            android:padding="16dp" />
+
+        <Button
+            android:id="@+id/btnMCJ"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_margin="8dp"
+            android:background="#DDFFDD"
+            android:padding="16dp"
+            android:text="Journalism"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/btnArc"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_margin="8dp"
+            android:text="Archaeology"
+            android:textSize="18sp"
+            android:background="#FFDDDD"
+            android:padding="16dp" />
+
+        <Button
+            android:id="@+id/btnAnt"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_margin="8dp"
+            android:text="Anthropology"
+            android:textSize="18sp"
+            android:background="#DDFFDD"
+            android:padding="16dp" />
+
+        <Button
+            android:id="@+id/btnMGT"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_margin="8dp"
+            android:text="Management"
+            android:textSize="18sp"
+            android:background="#FFDDDD"
+            android:padding="16dp" />
+
+        <Button
+            android:id="@+id/btnACCT"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_columnWeight="1"
+            android:layout_margin="8dp"
+            android:text="Accounting"
+            android:textSize="18sp"
+            android:background="#FFDDDD"
+            android:padding="16dp" />
+
+    </GridLayout>
+</LinearLayout>
