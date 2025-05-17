@@ -18,13 +18,10 @@ A simple Android application built using Java and Android Studio to help Comilla
 
   ## App Screenshots
 
-| Login Screen | Department Selection | Batch Selection |
-|--------------|----------------------|-----------------|
-| <img src="[screenshots/login-ui2.jpg](https://github.com/Rafiqul-Islam12/University-Course-Management-System-App/blob/main/app/screenshots/login-ui-2.png)" width="200"> | <img src="screenshots/dept.jpg" width="200"> | <img src="screenshots/batch.jpg" width="200"> |
+| Login | Batch Select | Semester View | PDF View |
+|-------|--------------|----------------|-----------|
+| ![](screenshots/login-ui2.png) | ![](screenshots/batch.png) | ![](screenshots/semesters.png) | ![](screenshots/pdf.png) |
 
-| Semester Selection | Course Details |
-|--------------------|----------------|
-| <img src="screenshots/year-sem.jpg" width="200"> | <img src="screenshots/login-ui.jpg" width="200"> |
 
 ## Technical Implementation
 
